@@ -21,4 +21,5 @@ API on Tiki website need authentication, so we need more steps than just copy-pa
 ### Step :three: Code by Python
 - Take a look on my code in my repo above with all the comments from there.
 ### Step :four: Visualize data with Google Data Studio
-- The link here:link: https://datastudio.google.com/reporting/fd634185-7ed3-4a93-85f4-606039539623
+- The link reports here:link: https://datastudio.google.com/reporting/fd634185-7ed3-4a93-85f4-606039539623
+- The link Google Sheet here :link: https://docs.google.com/spreadsheets/d/1d8v_I28CqxCnsKAgLr6AM5RAlPbI6qD8A4_-cRy9V5Q/edit?usp=sharing
