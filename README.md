@@ -7,6 +7,7 @@ Using Google Data Studio tool connect to Google Sheet and visulaze data into rep
 - Language: Python
 - Libs: pandas, spread, google.oauth2, googleapiclient.discovery, requests, json.
 - Tools: Data Studio, Google Sheet, Postman.
+#
 ### Step :one: Create service account on GG Cloud Api & Dowload key
 - Access to console.developers.google.com (Google Cloud Api)
 - Create a project -> click on that project -> Getting Started
