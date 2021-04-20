@@ -1,7 +1,7 @@
 # Smartphone Analysis On Tiki Website
 ### :wink: Description :wink:
-Using Python to get data from API on Tiki, the data is about Smartphone category, then update data to Google Sheet.<br>
-Using Google Data Studio tool connect to Google Sheet and visulaze data into reports.<br>
+Using Python to get data from API on Tiki, the data is about the Smartphone category, then update data to Google Sheet.<br>
+Using Google Data Studio tool connect to Google Sheet and visulize data into reports.<br>
 #
 ### :diamond_shape_with_a_dot_inside: Tech :diamond_shape_with_a_dot_inside:
 - Language: Python
